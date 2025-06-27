@@ -35,9 +35,9 @@ namespace AltcoinTrader.Controllers
         [HttpPost]
         public async Task<IActionResult> CoinForm(CornViewModel model)
         {
-            if (string.IsNullOrWhiteSpace(model.CoinName) || string.IsNullOrWhiteSpace(model.CoinTicker))
+            if (model.CoinName == null || model.CoinName == "" || model.CoinTicker == null || model.CoinTicker == "")
             {
-                model.Errormessage = "Both name and ticker are required.";
+                model.Errormessage = "Oops! You missed some info.";
                 model.ShowCoins = _dbcontext.Coins.ToList();
                 return View(model);
             }
