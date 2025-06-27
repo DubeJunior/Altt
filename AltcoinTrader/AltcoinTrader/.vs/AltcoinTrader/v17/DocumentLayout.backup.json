@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|c:\\users\\lab_services_student\\source\\repos\\altcointrader\\altcointrader\\migrations\\20250627105909_initialcreates4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|solutionrelative:altcointrader\\migrations\\20250627105909_initialcreates4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Migrations\\20250627105833_InitialCreates3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AltcoinTrader\\Migrations\\20250627105833_InitialCreates3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|c:\\users\\lab_services_student\\source\\repos\\altcointrader\\altcointrader\\controllers\\coincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|solutionrelative:altcointrader\\controllers\\coincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|c:\\users\\lab_services_student\\source\\repos\\altcointrader\\altcointrader\\models\\viewmodels\\cornviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|solutionrelative:altcointrader\\models\\viewmodels\\cornviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|c:\\users\\lab_services_student\\source\\repos\\altcointrader\\altcointrader\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|solutionrelative:altcointrader\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|c:\\users\\lab_services_student\\source\\repos\\altcointrader\\altcointrader\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|solutionrelative:altcointrader\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|c:\\users\\lab_services_student\\source\\repos\\altcointrader\\altcointrader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|solutionrelative:altcointrader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|c:\\users\\lab_services_student\\source\\repos\\altcointrader\\altcointrader\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|solutionrelative:altcointrader\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|c:\\users\\lab_services_student\\source\\repos\\altcointrader\\altcointrader\\service\\coinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|solutionrelative:altcointrader\\service\\coinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|c:\\users\\lab_services_student\\source\\repos\\altcointrader\\altcointrader\\views\\coin\\coinform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|solutionrelative:altcointrader\\views\\coin\\coinform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|c:\\users\\lab_services_student\\source\\repos\\altcointrader\\altcointrader\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|solutionrelative:altcointrader\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|c:\\users\\lab_services_student\\source\\repos\\altcointrader\\altcointrader\\models\\coinsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|solutionrelative:altcointrader\\models\\coinsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|c:\\users\\lab_services_student\\source\\repos\\altcointrader\\altcointrader\\migrations\\20250627101708_initialcreates2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|solutionrelative:altcointrader\\migrations\\20250627101708_initialcreates2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|c:\\users\\lab_services_student\\source\\repos\\altcointrader\\altcointrader\\models\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|solutionrelative:altcointrader\\models\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|c:\\users\\lab_services_student\\source\\repos\\altcointrader\\altcointrader\\altcointrader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|solutionrelative:altcointrader\\altcointrader.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|c:\\users\\lab_services_student\\source\\repos\\altcointrader\\altcointrader\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483AF353-F831-4596-B056-34E09D421EF3}|AltcoinTrader\\AltcoinTrader.csproj|solutionrelative:altcointrader\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250627105909_InitialCreates4.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Migrations\\20250627105909_InitialCreates4.cs",
+              "RelativeDocumentMoniker": "AltcoinTrader\\Migrations\\20250627105909_InitialCreates4.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Migrations\\20250627105909_InitialCreates4.cs",
+              "RelativeToolTip": "AltcoinTrader\\Migrations\\20250627105909_InitialCreates4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:59:09.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250627105833_InitialCreates3.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Migrations\\20250627105833_InitialCreates3.cs",
+              "RelativeDocumentMoniker": "AltcoinTrader\\Migrations\\20250627105833_InitialCreates3.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Migrations\\20250627105833_InitialCreates3.cs",
+              "RelativeToolTip": "AltcoinTrader\\Migrations\\20250627105833_InitialCreates3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:58:33.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AltcoinTrader\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AltcoinTrader\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:57:39.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CornViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Models\\ViewModels\\CornViewModel.cs",
+              "RelativeDocumentMoniker": "AltcoinTrader\\Models\\ViewModels\\CornViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Models\\ViewModels\\CornViewModel.cs",
+              "RelativeToolTip": "AltcoinTrader\\Models\\ViewModels\\CornViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:19:18.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Data\\ApplicationDBcontext.cs",
+              "RelativeDocumentMoniker": "AltcoinTrader\\Data\\ApplicationDBcontext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Data\\ApplicationDBcontext.cs",
+              "RelativeToolTip": "AltcoinTrader\\Data\\ApplicationDBcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:26:48.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\appsettings.json",
+              "RelativeDocumentMoniker": "AltcoinTrader\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\appsettings.json",
+              "RelativeToolTip": "AltcoinTrader\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-27T08:49:20.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoinController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Controllers\\CoinController.cs",
+              "RelativeDocumentMoniker": "AltcoinTrader\\Controllers\\CoinController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Controllers\\CoinController.cs",
+              "RelativeToolTip": "AltcoinTrader\\Controllers\\CoinController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:10:39.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoinForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Views\\Coin\\CoinForm.cshtml",
+              "RelativeDocumentMoniker": "AltcoinTrader\\Views\\Coin\\CoinForm.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Views\\Coin\\CoinForm.cshtml",
+              "RelativeToolTip": "AltcoinTrader\\Views\\Coin\\CoinForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T10:20:17.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoinService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Service\\CoinService.cs",
+              "RelativeDocumentMoniker": "AltcoinTrader\\Service\\CoinService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Service\\CoinService.cs",
+              "RelativeToolTip": "AltcoinTrader\\Service\\CoinService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:24:07.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Program.cs",
+              "RelativeDocumentMoniker": "AltcoinTrader\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Program.cs",
+              "RelativeToolTip": "AltcoinTrader\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:34:30.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AltcoinTrader\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AltcoinTrader\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T10:35:47.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250627101708_InitialCreates2.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Migrations\\20250627101708_InitialCreates2.cs",
+              "RelativeDocumentMoniker": "AltcoinTrader\\Migrations\\20250627101708_InitialCreates2.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Migrations\\20250627101708_InitialCreates2.cs",
+              "RelativeToolTip": "AltcoinTrader\\Migrations\\20250627101708_InitialCreates2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:17:08.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CoinSetting.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Models\\CoinSetting.cs",
+              "RelativeDocumentMoniker": "AltcoinTrader\\Models\\CoinSetting.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Models\\CoinSetting.cs",
+              "RelativeToolTip": "AltcoinTrader\\Models\\CoinSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:10:38.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Models\\Coin.cs",
+              "RelativeDocumentMoniker": "AltcoinTrader\\Models\\Coin.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Models\\Coin.cs",
+              "RelativeToolTip": "AltcoinTrader\\Models\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:15:31.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AltcoinTrader.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\AltcoinTrader.csproj",
+              "RelativeDocumentMoniker": "AltcoinTrader\\AltcoinTrader.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\AltcoinTrader.csproj",
+              "RelativeToolTip": "AltcoinTrader\\AltcoinTrader.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T09:22:27.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AltcoinTrader\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\AltcoinTrader\\AltcoinTrader\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AltcoinTrader\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:02:39.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

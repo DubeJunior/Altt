@@ -1,0 +1,68 @@
+﻿@model AltcoinTrader.Models.ViewModels.CornViewModel
+
+@{
+    ViewData["Title"] = "Request a New Coin";
+}
+
+<h2>Request a New Coin</h2>
+
+<form asp-action="CoinForm" method="post" class="mb-4">
+    <div class="form-group">
+        <label for="CoinName">Coin Name</label>
+        <input asp-for="CoinName" class="form-control" placeholder="e.g., Bitcoin" />
+    </div>
+
+    <div class="form-group">
+        <label for="CoinTicker">Coin Ticker</label>
+        <input asp-for="CoinTicker" class="form-control" placeholder="e.g., BTC" />
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-2">Submit</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.Errormessage))
+{
+    <div class="alert alert-danger">
+        @Model.Errormessage
+    </div>
+}
+
+<hr />
+
+<h3>Requested Coins</h3>
+
+@if (Model.ShowCoins != null && Model.ShowCoins.Count > 0)
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Ticker</th>
+                <th>Price (ZAR)</th>
+                <th>Votes</th>
+                <th>Vote</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var coin in Model.ShowCoins)
+            {
+                <tr>
+                    <td>@coin.CoinName</td>
+                    <td>@coin.CoinTicker</td>
+                    <td>@coin.CoinPrice.ToString("C")</td>
+                    <td>@coin.CoinVote</td>
+                    <td>
+                        <form asp-action="Upvote" method="post" style="display:inline;">
+                            <input type="hidden" name="id" value="@coin.CoinID" />
+                            <button type="submit" class="btn btn-success btn-sm"> Upvote</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No coins have been requested yet.</p>
+}
